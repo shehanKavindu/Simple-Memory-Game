@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+
+}
+body
+{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+#container
+{
+  height: 400px;
+  width: 1200px;
+  position: relative;
+  overflow: hidden;
+
+}
